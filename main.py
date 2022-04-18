@@ -1,4 +1,4 @@
-# to check the email verification
+# to check the email validation 
 email = input("enter your email : ")
 d, j, k = 0, 0, 0
 if len(email) >= 6:
